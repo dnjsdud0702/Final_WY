@@ -1,0 +1,6 @@
+*.pyc
+*~
+/vnv_vvv
+__pychache__g
+db.sqlite3
+.DS_Store
